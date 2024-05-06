@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    width: 300px;
+    height: 706px;
+}
+
+div#container{
+    overflow-x:auto ;
+    width: 400px;
+    transform: scale(67.5%) translate(-24%, -24%)
+}
