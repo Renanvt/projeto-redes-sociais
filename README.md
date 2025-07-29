@@ -16,7 +16,7 @@
     <br> 
 </p>
 <p align="center">
-  <a href="renanvt.github.io/projeto-redes-sociais/">Site do Projeto</a>
+ (Site do Projeto)[renanvt.github.io/projeto-redes-sociais/]
 </p>
 
 ## 📝 Tabela de Conteúdos
