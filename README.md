@@ -16,7 +16,7 @@
     <br> 
 </p>
 <p align="center">
- <!-- renanvt.github.io/projeto-redes-sociais/ -->
+ renanvt.github.io/projeto-redes-sociais/
 </p>
 
 ## 📝 Tabela de Conteúdos
